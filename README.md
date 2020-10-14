@@ -1,5 +1,5 @@
-# launch_checklist
-Staking Experience Checklist - Check as many of these boxes as you can before staking on mainnet
+# Ethereum Staking Launch preparedness checklist
+Staking Experience Checklist - Check as many of these boxes as you can before staking on mainnet. These are skills that you ought to have a good understanding of before putting your funds at risk.
 
 
 - [ ] Successfully run Medalla +1 month
