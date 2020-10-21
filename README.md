@@ -22,5 +22,9 @@ Staking Experience Checklist - Check as many of these boxes as you can before st
 
 - [ ] Perform exit (client 2)
 
+- [ ] Update client 1 and resume validating
+
+- [ ] Update client 2 and resume validating
+
 
 Credit to https://www.reddit.com/user/Electracomplex for the genesis of this idea.
