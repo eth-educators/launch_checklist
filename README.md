@@ -26,7 +26,5 @@ Staking Experience Checklist - Check as many of these boxes as you can before st
 
 - [ ] Update client 2 and resume validating
 
-- [ ] connect remotely to your server
-
 
 Credit to https://www.reddit.com/user/Electracomplex for the genesis of this idea.
